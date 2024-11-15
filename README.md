@@ -7,9 +7,7 @@ This project demonstrates a simple car parking space detection system using Open
 - [Usage](#usage)
 - [Files and Folders](#files-and-folders)
 - [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
-
+  
 ## Overview
 
 The main goal of this project is to detect and monitor car parking spaces. It consists of two main parts:
